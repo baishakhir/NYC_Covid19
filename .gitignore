@@ -4,3 +4,5 @@ R/.Rproj.user
 R/R.Rproj
 *.swp
 *~
+.Rproj.user
+.ipynb_checkpoints

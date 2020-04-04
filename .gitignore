@@ -1,0 +1,6 @@
+.DS_Store
+*.xlsx
+R/.Rproj.user
+R/R.Rproj
+*.swp
+*~

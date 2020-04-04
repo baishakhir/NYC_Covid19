@@ -1,0 +1,15 @@
+curl -O https://www1.nyc.gov/assets/doh/downloads/pdf/imm/covid-19-daily-data-summary-03312020-2.pdf
+curl -O https://www1.nyc.gov/assets/doh/downloads/pdf/imm/covid-19-daily-data-summary-03302020-2.pdf
+curl -O https://www1.nyc.gov/assets/doh/downloads/pdf/imm/covid-19-daily-data-summary-03292020-2.pdf
+curl -O https://www1.nyc.gov/assets/doh/downloads/pdf/imm/covid-19-daily-data-summary-03282020-2.pdf
+curl -O https://www1.nyc.gov/assets/doh/downloads/pdf/imm/covid-19-daily-data-summary-03272020-2.pdf
+curl -O https://www1.nyc.gov/assets/doh/downloads/pdf/imm/covid-19-daily-data-summary-03262020-2.pdf
+curl -O https://www1.nyc.gov/assets/doh/downloads/pdf/imm/covid-19-daily-data-summary-03252020-2.pdf
+curl -O https://www1.nyc.gov/assets/doh/downloads/pdf/imm/covid-19-daily-data-summary-03242020-2.pdf
+curl -O https://www1.nyc.gov/assets/doh/downloads/pdf/imm/covid-19-daily-data-summary-03232020-2.pdf
+curl -O https://www1.nyc.gov/assets/doh/downloads/pdf/imm/covid-19-daily-data-summary-03222020-2.pdf
+curl -O https://www1.nyc.gov/assets/doh/downloads/pdf/imm/covid-19-daily-data-summary-03212020-2.pdf
+curl -O https://www1.nyc.gov/assets/doh/downloads/pdf/imm/covid-19-daily-data-summary-03202020-2.pdf
+curl -O https://www1.nyc.gov/assets/doh/downloads/pdf/imm/covid-19-daily-data-summary-03192020-2.pdf
+curl -O https://www1.nyc.gov/assets/doh/downloads/pdf/imm/covid-19-daily-data-summary-03182020-2.pdf
+curl -O https://www1.nyc.gov/assets/doh/downloads/pdf/imm/covid-19-daily-data-summary-03172020-2.pdf
